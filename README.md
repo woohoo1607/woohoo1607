@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi👋, I'm Maksym - Frontend Developer!
+
+## 🛠 Skills
+
+**Languages**: `JavaScript`, `Typescript`
+
+**Frameworks/Libraries**: `React`, `Material-UI`, `Redux`, `Redux-Saga`
+
+**Tools**: `Docker`, `Jest`, `Enzyme`
+
+## 📫 Contact Me
+
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/maksym-volkov-04659619b/)
+- **Email**: [woohoo1607@gmail.com](mailto:woohoo1607@gmail.com)
+
 
 <!--
 **woohoo1607/woohoo1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
